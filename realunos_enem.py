@@ -16,7 +16,7 @@ import seaborn as srn
 import statistics as sts
 
 #importar dados
-dataset = pd.read_csv("Alunos_Enem.csv", sep =",")
+dataset = pd.read_csv("../../Downloads/Alunos_Enem.csv", sep =",")
 #visulizar
 dataset.head()
 

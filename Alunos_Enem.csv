@@ -1,0 +1,77 @@
+ID Aluno,Região,Sexo,Idade,Ensino Médio,Cor/Raça,Estado Civil,Necessidade Especial declarada,Taxa de Inscrição,Data conclusão EM
+1,Norte,Masculino,9,Concluído,Não declarada,Solteiro,Sem declaração,Pagante,07/08/21
+2,Nordeste,Feminino,23,Concluído,Branca,Casado,Sem declaração,Isento,22/06/21
+3,Sul,Masculino,16,Incompleto,Preta,Divorciado,S/D,Pagante,02 de maio de 2021
+4,Sudeste,Feminino,16,Incompleto,Parda,Viúvo,Sem declaração,Pagante,22/06/21
+5,Centro-Oeste,Masculino,18,Concluído,Amarela,Solteiro,,Pagante,22/06/21
+6,Brasília,Feminino,27,Concluído,Indígena,Casado,Sem declaração,Pagante,07/08/21
+7,CO,Masculino,27,Concluído,Não declarada,Divorciado,S/D,Isento,22/06/21
+8,,,45,,Branca,Viúvo,Sem declaração,Não paga,22/06/21
+9,N,Feminino,23,Concluído,Preta,Solteiro,Cegueira,,02 de maio de 2021
+10,NE,,24,Incompleto,Parda,Solteiro,Baixa Visão,Não paga,29/05/22
+11,Sul,Feminino,19,Concluído,Amarela,Solteiro,S/D,,29/05/22
+12,Sudeste,,6,Concluído,Indígena,Solteiro,,,07/08/21
+13,Centro-Oeste,Masculino,16,Incompleto,,Casado,Autismo,Pagar,18 de novembro de 2021
+14,,,18,Concluído,Branca,Divorciado,Cegueira,,02 de maio de 2021
+15,Centro-Oeste,Feminino,18,Concluído,Preta,Viúvo,,,18 de novembro de 2021
+6,Brasília,Feminino,27,Concluído,Indígena,Casado,Sem declaração,Pagante,18 de novembro de 2021
+16,,M,9,Incompleto,Parda,,,Pagar,07/08/21
+17,Norte,,23,Concluído,Branca,Não sei,S/D,Pagante,18 de novembro de 2021
+18,Nordeste,,19,Concluído,Preta,,,Isento,18 de novembro de 2021
+19,Sul,Masculino,16,Incompleto,Parda,Casado,S/D,Isento,18 de novembro de 2021
+20,SE,,19,Concluído,Preta,Divorciado,,Não paga,07/08/21
+19,Sul,Masculino,16,Incompleto,Parda,Casado,S/D,Isento,18 de novembro de 2021
+20,SE,,19,Concluído,Preta,Divorciado,,Não paga,07/08/21
+21,Centro-Oeste,,27,Concluído,Parda,,Dislexia,Pagar,18 de novembro de 2021
+22,,Feminino,30,,Amarela,Casado,Sem atenção,Pagar,02 de maio de 2021
+23,S,,45,,Indígena,Divorciado,,,02 de maio de 2021
+24,,,19,Incompleto,Preta,,Autismo,,02 de maio de 2021
+25,Norte,Masculino,35,Concluído,Parda,Não sei,Cegueira,Pagar,07/08/21
+26,NE,,27,Concluído,Amarela,Casado,Deficiência Física,,02 de maio de 2021
+27,Sul,,47,,Indígena,Divorciado,Autismo,,15/02/21
+28,SE,M,25,,,,Dislexia,,02 de maio de 2021
+29,Centro-Oeste,Feminino,18,,,,Deficiência Física,,15/02/21
+30,,Feminino,145,Incompleto,Preta,Não sei,Sem declaração,Pagar,02 de maio de 2021
+31,Sul,Masculino,8,Concluído,Parda,Casado,Cegueira,,02 de maio de 2021
+32,N,,12,Concluído,Amarela,Divorciado,Sem declaração,,02 de maio de 2021
+33,Nordeste,Feminino,25,,Indígena,Casado,Sem declaração,Pagar,02 de maio de 2021
+34,Sul,,31,,Preta,Divorciado,Sem declaração,,29/05/21
+35,Sudeste,M,24,Incompleto,Parda,,Cegueira,,29/05/21
+36,Centro-Oeste,,118,Concluído,,Não sei,Deficiência auditiva,Pagar,15/02/21
+37,,Masculino,28,Concluído,,,Sem declaração,,29/05/21
+38,Sul,Feminino,32,,Preta,,Cego,,22/08/23
+39,Sul,Feminino,77,Incompleto,Parda,,Deficiência Física,Pagar,15/02/21
+40,,M,25,Concluído,Indígena,,Baixa Visão,,03 de dezembro de 2020
+41,Norte,Feminino,21,Concluído,Preta,Não sei,Deficiência Física,,03 de dezembro de 2020
+42,Nordeste,Feminino,24,,Parda,Casado,Baixa Visão,Pagante,15/02/21
+43,Sul,Masculino,122,Incompleto,Indígena,Solteiro,Surdez,Pagante,03 de dezembro de 2020
+44,Sudeste,F,34,Concluído,Preta,Solteiro,Cego,,15/02/21
+45,Centro-Oeste,F,80,Concluído,Parda,Casado,Sem declaração,Pagante,15/02/21
+46,Nordeste,,28,,Indígena,Não sei,Deficiência auditiva,Pagante,15/02/21
+47,,M,65,Incompleto,Preta,Casado,Deficit de atenção,,03 de dezembro de 2020
+48,Paraíba,F,29,Concluído,Parda,Solteiro,Sem declaração,,15/02/21
+49,Nordeste,Masculino,17,Concluído,,Solteiro,Sem declaração,Pagante,03 de dezembro de 2020
+50,Sul,,18,,Branca,Casado,Deficit de atenção,,03 de dezembro de 2020
+51,Sudeste,M,115,,Parda,Não sei,Sem declaração,,15/02/21
+52,Centro-Oeste,Masculino,37,,Amarela,Casado,Sem declaração,,15/02/21
+53,,,18,Incompleto,Parda,Solteiro,Sem declaração,,08/08/22
+54,,,223,Concluído,Amarela,Solteiro,Deficit de atenção,Pagante,08/08/21
+55,Nordeste,F,85,Concluído,Parda,Casado,Autismo,Pagante,03 de dezembro de 2020
+56,,,52,,Amarela,Não sei,Sem atenção,,15/09/22
+57,Nordeste,Masculino,34,,,,Sem declaração,Pagante,18 de novembro de 2021
+58,Norte,Feminino,45,,,,Sem declaração,,18 de novembro de 2021
+59,Nordeste,,17,Incompleto,Branca,,Deficit de atenção,,07/08/21
+60,Sul,,18,Concluído,,Casado,Sem declaração,Pagante,18 de novembro de 2021
+61,Sudeste,,19,Concluído,,Solteiro,Sem declaração,Pagante,18 de novembro de 2021
+62,Centro-Oeste,F,18,Incompleto,,Solteiro,Sem declaração,Pagante,18 de novembro de 2021
+63,,,17,Concluído,,Casado,Deficit de atenção,Isento,07/08/21
+64,Nordeste,M,19,Concluído,Branca,Não sei,Sem declaração,Isento,18 de novembro de 2021
+65,Norte,,22,,,,Sem declaração,,02 de maio de 2021
+66,Nordeste,Masculino,24,Incompleto,Preta,Solteiro,Deficit de atenção,Pagante,02 de maio de 2021
+67,Sul,M,25,Concluído,Parda,Solteiro,Sem declaração,Pagante,02 de maio de 2021
+68,Sudeste,,25,Concluído,Preta,Casado,Sem declaração,,07/08/21
+69,Centro-Oeste,Feminino,16,Concluído,Não declarada,Casado,Deficit de atenção,,02 de maio de 2021
+7,CO,Masculino,19,Concluído,Não declarada,Divorciado,S/D,Isento,22/06/21
+59,Nordeste,,17,Incompleto,Branca,,Deficit de atenção,,07/08/21
+41,Norte,Feminino,21,Concluído,Preta,Não sei,Deficiência Física,,03 de dezembro de 2020
+41,Norte,Feminino,21,Concluído,Preta,Não sei,Deficiência Física,,03 de dezembro de 2020
